@@ -16,7 +16,7 @@ let resumeData = {
           "className":"fa fa-github",
         },
       ],
-    "aboutme":"Born and raised in Southern California but I call the Bay Area home now. Fluent with the MERN (Mongo, Express, React, Node) stack and have deployed multiple applications with AWS and Heroku. Outside of developing I love to skateboard and play video games!",
+    "aboutme":"Born and raised in Southern California but I call the Bay Area home now. Fluent with the MERN (Mongo, Express, React, Node) stack and have deployed multiple applications with AWS and Heroku. Outside of developing I love skateboarding and playing video games!",
     "address":"San Francisco",
     "email":"bradleyjfrancis92@gmail.com",
     "education":[
