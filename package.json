@@ -1,5 +1,4 @@
 {
-  "homepage": "http://fradleybrancis.github.io/portfolio",
   "name": "resume",
   "version": "0.1.0",
   "private": true,
@@ -9,8 +8,6 @@
     "react-scripts": "2.1.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -25,7 +22,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "devDependencies": {
-    "gh-pages": "^2.2.0"
-  }
+  "devDependencies": {}
 }
